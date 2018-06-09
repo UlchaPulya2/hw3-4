@@ -1,9 +1,9 @@
 # hw3-4
-##Шаг 1
+## Шаг 1
 
 [Ссылка на опрос](https://docs.google.com/forms/d/11fWAkXM6Sd8vI-2WyD2Gqrx3cH7jph34Amsfq1qX_mc/edit)
 
-##Шаг 2
+## Шаг 2
 
 [Ссылка на форму](https://docs.google.com/forms/d/11fWAkXM6Sd8vI-2WyD2Gqrx3cH7jph34Amsfq1qX_mc/edit)
 
@@ -11,7 +11,7 @@
 
 Мой опрос являет собой тест на знание истории, в нем поучаствовало и проверило свои знание 20 человек.
 
-##Шаг 3
+## Шаг 3
 
 [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/12WRmoOG-MwVy4-hCDjKerHKzZUVz67LazvlYUzf8BaA/edit#gid=1842359163) (лист2)
 
